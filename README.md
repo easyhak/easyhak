@@ -10,14 +10,15 @@
 ## MY PROFILE🍔
 - 신일고등학교 졸업 2018.02
 - 중앙대학교 소프트웨어학부 입학 2019.03
-- 🔭 I’m currently working on Social Service👮‍♂️
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Handlebars.js-000000?style=flat-square&logo=Handlebars.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhak&show_icons=true&theme=tokyonight&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhak&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
