@@ -19,11 +19,12 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
   
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhak&show_icons=true&theme=tokyonight&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhak&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/)
 
+  </div>
 
