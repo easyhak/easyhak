@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48c9f34a-0f4a-4cc9-948b-b6f8706b8b44" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48c9f34a-0f4a-4cc9-948b-b6f8706b8b44" data-share-badge-host="https://www.credly.com"></div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhak&show_icons=true&theme=tokyonight&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhak&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
