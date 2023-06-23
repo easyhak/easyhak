@@ -2,8 +2,12 @@
 
 # Hi There! 👋
 ---
+<!--
 ## SNS LIST🍕
+
 <a href="https://blog.naver.com/jooin2000" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><a href="https://instagram.com/easyhak2?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+-->
+
 <!--
 **easyhak/easyhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
