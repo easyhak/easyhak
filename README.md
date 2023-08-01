@@ -12,8 +12,6 @@
 **easyhak/easyhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## MY PROFILE🍔
-- 신일고등학교 졸업 2018.02
-- 중앙대학교 소프트웨어학부 입학 2019.03
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
