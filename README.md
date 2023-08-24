@@ -24,6 +24,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/)
 
-  </div>
+  
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
