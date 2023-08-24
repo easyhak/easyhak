@@ -20,6 +20,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_SIZE: 100
-          NUMBER_LAST_BADGES: 24
+          CREDLY_USER: Lee JiHak
