@@ -24,7 +24,7 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/)
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 <!--START_SECTION:badges-->
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/aa853b8e-1f11-4995-bc9a-c370aeb95273/")
