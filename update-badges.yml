@@ -1,4 +1,4 @@
-name: Update badges
+name: README
 
 on:
   schedule:
