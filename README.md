@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/)
 
   </div>
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
