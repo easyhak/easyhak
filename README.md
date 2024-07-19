@@ -29,6 +29,16 @@
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white"> <img src="https://img.shields.io/badge/Amazon API GateWay-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white">
 - 
+## Certificate <img src="https://github.com/user-attachments/assets/f2e3d404-1921-4f2e-abd6-ad2044fffbe6" width=50px height=50px>
+- 컴퓨터활용능력 1급
+- 웹디자인 기능사
+- 정보처리 산업기사
+- AWS DVA
+- AWS CLF
+- SQLD
+- Topcit level3(624)
+
+  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/) -->
 
 <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
