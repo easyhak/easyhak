@@ -40,8 +40,7 @@
 - Topcit level3(624)
 
 ## Career <img src="https://github.com/user-attachments/assets/ae7ebd6b-f677-4a95-8fd2-a5a291bb3bac" width=50px height=50px>
-- 에스엔비플러스
-- 네이버부스크캠프 멤버십
+- 
 
 ## 
 
