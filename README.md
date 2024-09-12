@@ -39,8 +39,8 @@
 
 ## Awarded <img src="https://github.com/user-attachments/assets/52440869-ec71-4f1e-b5e8-d62e273f0b0d" width=40px height=40px>
 
-|Date| Competition | Repository |
-|---|-----|------|
+|Date| Competition |
+|---|-----|
 |2024-05| CAU Union Hackathon 1등 |
 |2024-09| 한국정보연합회장상 |
 
