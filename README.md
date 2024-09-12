@@ -73,8 +73,11 @@
 
 ## Github stats <img src="https://github.com/user-attachments/assets/d66f7ae5-4ed1-47ba-a493-b63b078963b2" width=40px height=40px>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=easyhak)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhak&hide=html,scss)](https://github.com/easyhak/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=easyhak)](https://github.com/anuraghazra/github-readme-stats)
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easyhak&hide=html,scss" height=250px width=300px />-->
+
+
 <!-- <img src="https://stats.hyochan.dev/api/github-stats-advanced?login=easyhak" width="500px"/> -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooin2000)](https://solved.ac/jooin2000/) -->
 
