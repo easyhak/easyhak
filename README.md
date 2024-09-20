@@ -37,7 +37,7 @@
 ![remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 
-
+<!--
 
 ## History <img src="https://github.com/user-attachments/assets/ae7ebd6b-f677-4a95-8fd2-a5a291bb3bac" width=40px height=40px>
 |Period|Description|
@@ -67,7 +67,7 @@
 |2024-05| CAU Union Hackathon 1등 |
 |2024-09| 한국정보연합회장상 |
 
-
+-->
 
 
 
